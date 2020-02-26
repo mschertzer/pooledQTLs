@@ -1,0 +1,11 @@
+February 24, 2020
+Pooled QTLs project using GTEx fibroblasts
+
+Encode ECLIP data downloaded by David is here:
+/gpfs/commons/home/daknowles/knowles_lab/data/ENCODE_eCLIP
+transferred eclip_meta_w_strand.tsv which file name to RBP for bigwig files, **there are separate bigwig files for strands
+control data is size match input
+
+
+GTEx vcfs are here:
+/gpfs/commons/datasets/controlled/GTEx/dbgap_release/v8/files/phg001219.v1.GTEx_v8_WGS.genotype-calls-vcf.c1/
